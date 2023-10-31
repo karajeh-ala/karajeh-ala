@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ala' Karajeh
+- 👋 Hi, I’m Ala' Karajeh. I'm an MSc student
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning ML techniques and healthcare analytics
 - 💞️ I’m looking to collaborate on Healthcare analytics/ML projects
